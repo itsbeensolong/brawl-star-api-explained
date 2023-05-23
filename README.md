@@ -15,6 +15,6 @@
 
 ## License
 
-**MIT**
+This project is under the ***MIT license***
 
 ## Support
