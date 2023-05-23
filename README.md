@@ -15,4 +15,6 @@
 
 ## License
 
+**MIT**
+
 ## Support
