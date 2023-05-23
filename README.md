@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/hP4BxKzs/api-brawl-star.png" width="700" height="400" align="center"/>
+  <img src="https://i.postimg.cc/hP4BxKzs/api-brawl-star.png" width="700" height="550" align="center"/>
 </p>
 
 
