@@ -3,4 +3,4 @@
 </p>
 
 
-# Brawl Star API
+# The Brawl Stars API
