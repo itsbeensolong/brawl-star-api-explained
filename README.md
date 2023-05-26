@@ -9,7 +9,7 @@
 
 
 ## Getting Started
-**Check out the [documentation](https:github.com/itsbeensolong/docs-api-brawl-stars) to get started**
+**Check out the [documentation](https://github.com/itsbeensolong/docs-api-brawl-stars) to get started**
 
 ## Website
 
